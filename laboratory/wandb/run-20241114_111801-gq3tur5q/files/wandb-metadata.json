@@ -1,0 +1,38 @@
+{
+  "os": "macOS-15.0.1-arm64-arm-64bit",
+  "python": "3.11.4",
+  "startedAt": "2024-11-14T10:18:03.594984Z",
+  "program": "/Users/tauan/Documents/GitHub/coursera-evaluating-and-debugging-generative-ai/laboratory/04_llm_eval_starter.ipynb",
+  "git": {
+    "remote": "https://github.com/tauantorres/coursera-evaluating-and-debugging-generative-ai.git",
+    "commit": "a00d1d2cda56c743ba3376e59642cf5e334941ba"
+  },
+  "email": "tauan.mendes@stefanini.com",
+  "root": "/Users/tauan/Documents/GitHub/coursera-evaluating-and-debugging-generative-ai/laboratory",
+  "host": "Mac.homenet.telecomitalia.it",
+  "username": "tauan",
+  "executable": "/Users/tauan/Documents/GitHub/coursera-evaluating-and-debugging-generative-ai/.venv/bin/python",
+  "codePathLocal": "04_llm_eval_starter.ipynb",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "83495100416"
+    }
+  },
+  "memory": {
+    "total": "38654705664"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 12
+  },
+  "apple": {
+    "name": "Apple M3 Pro",
+    "ecpuCores": 6,
+    "pcpuCores": 6,
+    "gpuCores": 18,
+    "memoryGb": 36
+  }
+}
